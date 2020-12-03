@@ -25,6 +25,8 @@ https://www.creapple.com/
 
 app.component.html로 이동해서 추가해
 usage : https://material.angular.io/components/checkbox/examples
+
+[(ngModel)]="checked" 부분은 빼라
 ***
 
 

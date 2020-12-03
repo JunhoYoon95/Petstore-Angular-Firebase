@@ -29,6 +29,11 @@ usage : https://material.angular.io/components/checkbox/examples
 [(ngModel)]="checked" 부분은 빼라
 ***
 
+### Angular schematics
+https://material.angular.io/guide/schematics
+이 중에서도 navigation을 설치할거야
+* terminal : ng generate @angular/material:address-form <component-name>
+
 
 
 ***

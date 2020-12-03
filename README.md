@@ -8,11 +8,8 @@ termnial : ng add @angular/material
 angular material 페이지 -> https://material.angular.io/components/categories  
 ***
 
-### Angular material - slider 을 import 하기.
-
-https://material.angular.io/components/slider/overview
-
-
+### Angular material - slider 을 import 하기.  
+https://material.angular.io/guide/getting-started
 ***
 
 

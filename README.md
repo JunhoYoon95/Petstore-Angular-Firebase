@@ -26,7 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-# 개발 노트
+
+
+# Junmannn's 개발 노트
+### Angular 프로젝트 생성
+terminal : ng new petstore
+-> SCSS로 선택
+
 ### Angular material 다운로드 - 많은 material들을 가져오는 것임.
-termial : ng add @angular/material
+termnial : ng add @angular/material
 

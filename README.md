@@ -2,17 +2,16 @@
 ### Angular 프로젝트 생성
 terminal : ng new petstore
 -> SCSS로 선택
-
+***
 ### Angular material 다운로드 - 많은 material들을 가져오는 것임.
 termnial : ng add @angular/material
-
 angular material 페이지 -> https://material.angular.io/components/categories  
-
+***
 
 ### Angular material - slider 을 import 하기.
 
 https://material.angular.io/components/slider/overview
-
+***
 
 
 # AngularPetstore

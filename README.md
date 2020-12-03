@@ -12,6 +12,9 @@ angular material 페이지 -> https://material.angular.io/components/categories
 https://material.angular.io/guide/getting-started
 ***
 
+### Angular module이 많아서 app.modules.ts에 하나하나 가져오기 너무 비요율적이다. 모듈 폴더를 만들어 한 번에 관리하고 import 하자
+terminal : ng generate module modules/angular-material
+모듈을 만드는데 modules 라는 곳에 angular-material 이라는 폴더를 만든거지.
 
 # AngularPetstore
 

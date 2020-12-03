@@ -9,7 +9,7 @@ angular material 페이지 -> https://material.angular.io/components/categories
 ***
 
 ### Angular material - slider 을 import 하기.  
-사용 방법 : <mat-slider min="1" max="100" step="1" value="1"></mat-slider>
+사용 방법 : "<mat-slider min="1" max="100" step="1" value="1"></mat-slider>"
 https://material.angular.io/guide/getting-started
 ***
 

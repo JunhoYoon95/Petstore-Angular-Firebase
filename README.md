@@ -4,7 +4,7 @@ terminal : ng new petstore
 -> SCSS로 선택
 ***
 ### Angular material 다운로드 - 많은 material들을 가져오는 것임.
-termnial : ng add @angular/material
+*termnial : ng add @angular/material
 
 angular material 페이지 -> https://material.angular.io/components/categories  
 ***

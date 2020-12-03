@@ -21,6 +21,8 @@ https://material.angular.io/guide/getting-started
 
 ### material 폴더를 만들고 안의 내용을 이것으로 대체
 https://www.creapple.com/
+그 폴더 자체를 가져오는걸로 app.module.ts, angular-material.module.ts 고치고 app.component.html로 이동해서 추가해
+usage : https://material.angular.io/components/checkbox/examples
 ***
 
 

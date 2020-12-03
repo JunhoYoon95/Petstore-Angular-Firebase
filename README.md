@@ -32,12 +32,22 @@ usage : https://material.angular.io/components/checkbox/examples
 ### Angular schematics
 https://material.angular.io/guide/schematics
 이 중에서도 navigation을 설치할거야
-* terminal : ng generate @angular/material:address-form <component-name>
-
-
+* terminal : ng generate @angular/material:navigation <component-name>
+  usage : ng generate @angular/material:navigation --name=nav
+이름을 nav라고 지은 것 뿐이고, 저 이름은 아무거나 바꿔도 상관은 없겠지
+* 생성된 nav 폴더 안에 nav.component.ts 파일을 보면 @component에 selector: 'app-nav'라고 쓰여있다. 이 이름이 다른 곳에서 이 navigation을 불러오는 이름이다.
+이걸 대표 화면인 app.component.html 에서 불러봐야지
+* 얘 하면 친철하게 app.module.ts에 또 더 가져오는데 나는 이걸 wrapper 로 묶어놨기때문에 지워줘도 된다.
 
 ***
+## Firebase
+https://firebase.google.com/
 
+noSQL기반 으로 사용을 할 거다.
+
+JSON(Javascript Object Notation)형태로 저장이 된다.
+
+structure : noSQL기반의 JSON데이터 형태. + Realtime Database(하나의 커다란 JSON tree형태), key를 생성해줌
 
 
 
